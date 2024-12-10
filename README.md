@@ -1,2 +1,4 @@
 # Study-Spot-Finder
-This project aims to provide study spot recommendations for Rutgers New Brunswick. The model takes in preferences from the user such as campus preference, ammenities provided, and preferred loudness.
+This project aims to provide study spot recommendations for Rutgers New Brunswick. The model takes in preferences from the user such as campus preference, amenities provided, and preferred loudness.
+# Dataset
+This dataset was created synthetically with help from Rutgers study spaces website https://scheduling.rutgers.edu/ecosystem-for-learning/study-spaces
