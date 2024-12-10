@@ -3,4 +3,4 @@ This project aims to provide study spot recommendations for Rutgers New Brunswic
 # Dataset
 This dataset was created synthetically with help from Rutgers study spaces website https://scheduling.rutgers.edu/ecosystem-for-learning/study-spaces
 # Demo Video
-[Watch the Demo Video]([(https://youtu.be/13hzk15BJyw))
+[Watch the Demo Video](https://youtu.be/13hzk15BJyw)
