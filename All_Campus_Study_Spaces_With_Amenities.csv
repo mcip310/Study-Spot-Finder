@@ -1,0 +1,93 @@
+campus,building,room_name,popularity,has_computers
+College Ave,Alexander Library,Digital Learning Commons,8,Yes
+College Ave,Alexander Library,Digital Learning Commons Audio Booth,4,No
+College Ave,Alexander Library,Digital Learning Commons Conference Rooms,8,Yes
+College Ave,Alexander Library,Digital Learning Commons Huddle Room 128H,5,Yes
+College Ave,Alexander Library,Digital Learning Commons Huddle Room 128M,5,Yes
+College Ave,Alexander Library,Digital Learning Commons One Button Studio 132,4,Yes
+College Ave,Alexander Library,Digital Learning Commons One Button Studio 133,4,No
+College Ave,Alexander Library,Digital Learning Commons Pitch Room,3,No
+College Ave,Alexander Library,Digital Learning Commons Study Conference Room,9,Yes
+College Ave,Alexander Library,Room 301A,7,No
+College Ave,Alexander Library,Room 301B,7,No
+College Ave,Alexander Library,Room 301C,7,No
+College Ave,Alexander Library,Room 301D,7,No
+College Ave,Alexander Library,Room 301E,7,No
+College Ave,Alexander Library,Room 301F,7,No
+College Ave,Academic Building,Computer Center Lab,7,Yes
+College Ave,Academic Building,Learning Center,9,No
+College Ave,Art Library,Art Library,6,Yes
+College Ave,Art Library,Art Library Room 105A,6,No
+College Ave,College Avenue Student Center,4th Floor Lounge,7,No
+College Ave,College Avenue Student Center,Atrium Food Court,10,No
+College Ave,College Avenue Student Center,Front Patio,3,No
+College Ave,College Avenue Student Center,Graduate Student Lounge,3,No
+College Ave,College Avenue Student Center,Main Lounge,10,No
+College Ave,College Avenue Student Center,Red Lion Cafe,3,No
+College Ave,School of Communications and Information,Common Area,3,No
+College Ave,School of Communications and Information,Student Lounge,2,No
+College Ave,Spring Street SAS Language Lab,Spring Street SAS Language Lab,1,No
+College Ave,TJ's Cafe at Zimmerli,TJ's Cafe at Zimmerli,1,No
+College Ave,Voorhees Hall - Lobby,Voorhees Hall - Lobby,3,No
+Busch,Allison Road Classrooms,Mezzanine,5,No
+Busch,Busch Campus Computing Lab,Computing Lab,5,Yes
+Busch,Busch Math & Science Learning Center,Learning Center,7,No
+Busch,Busch Student Center,Fireside Lounge,6,No
+Busch,Busch Student Center,Food Court,10,No
+Busch,Busch Student Center,International Lounge,6,No
+Busch,Busch Student Center,Quiet Lounge,7,No
+Busch,Busch Student Center,The Cove,9,No
+Busch,Chemistry & Chemical Biology,Lounge,3,No
+Busch,Computer Science Building,Lobby,4,No
+Busch,Ernest Mario School of Pharmacy,Atrium,6,No
+Busch,Fiber Optics Materials Research Building,Lobby,3,No
+Busch,Library of Science and Medicine,Room 1,4,Yes
+Busch,Library of Science and Medicine,Room 2,4,Yes
+Busch,Library of Science and Medicine,Room 3,4,Yes
+Busch,Library of Science and Medicine,Room 4,4,Yes
+Busch,Library of Science and Medicine,Room 5,4,Yes
+Busch,Library of Science and Medicine,Main Library,3,Yes
+Busch,Paul Robeson Cultural Center,Computer Room,3,No
+Busch,Paul Robeson Cultural Center,Gathering Lounge,1,No
+Busch,Paul Robeson Cultural Center,Dr. Cheryl A. Wall Reading Room,2,No
+Busch,Paul Robeson Cultural Center,Meeting Room,2,No
+Busch,Paul Robeson Cultural Center,Ujima Conference Room,1,No
+Busch,Richard Weeks Hall of Engineering,Atrium,6,No
+Busch,Richard Weeks Hall of Engineering,Lobby,9,No
+Cook/Douglass,Chang Library,Room 139-6,3,No
+Cook/Douglass,Cook Student Center,2nd Floor Lounge,6,Yes
+Cook/Douglass,Cook Student Center,2nd Floor Quiet Lounge,6,Yes
+Cook/Douglass,Cook Student Center,Outside Patio,5,No
+Cook/Douglass,Cook/Douglass Computer Center,Main Computer Center,8,Yes
+Cook/Douglass,Douglass Library,Main Library,9,Yes
+Cook/Douglass,Douglass Library,Capaccio Room,6,No
+Cook/Douglass,Douglass Library,Room 1A,6,No
+Cook/Douglass,Douglass Library,Room 1B,6,No
+Cook/Douglass,Douglass Library,Room 1C,6,No
+Cook/Douglass,Douglass Library,Sabb Room,3,No
+Cook/Douglass,Douglass Library,Computer Lab,5,Yes
+Cook/Douglass,Douglass Student Center,Douglass Collaborative Center,5,Yes
+Cook/Douglass,Douglass Student Center,Douglass Lounge,9,No
+Cook/Douglass,Douglass Student Center,Front Outside Patio,5,No
+Cook/Douglass,Douglass Student Center,NJC Lounge,2,No
+Cook/Douglass,Douglass Student Center,Red Pine Lounge,2,No
+Cook/Douglass,Food Sciences Building,Lobby,5,No
+Cook/Douglass,Institute of Food Nutrition & Health,Atrium,6,No
+Cook/Douglass,James B. Carey Library,Main Library,5,No
+Cook/Douglass,Mortensen Hall,Lobby,7,No
+Cook/Douglass,Stephen and Lucy Science Library,Main Library,7,No
+Livingston,Business Rockafeller Road,5th Floor Lounge,7,No
+Livingston,Business Rockafeller Road,Mezzanine Lounge,7,Yes
+Livingston,Carr Library,Main Library,5,Yes
+Livingston,Carr Library,Computer Lab,5,Yes
+Livingston,Livingston Computing Center,Main Computing Center,7,No
+Livingston,Livingston Computing Center,Room 106G,3,No
+Livingston,Livingston Student Center,1st Floor Lounge,8,Yes
+Livingston,Livingston Student Center,Coffee House,8,No
+Livingston,Livingston Student Center,Collaborative Learning Center,5,No
+Livingston,Livingston Student Center,Food Court,9,No
+Livingston,Livingston Student Center,Gathering Lounge,6,No
+Livingston,Livingston Student Center,Livingston Courtyard (Back Patio),6,No
+Livingston,Livingston Student Center,The Space,6,No
+Livingston,Tillett Hall,Lobby,8,No
+Livingston,Tillett Hall,Second Floor Lounge,6,No
